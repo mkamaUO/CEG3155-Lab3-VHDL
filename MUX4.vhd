@@ -3,7 +3,7 @@
 -- Project       : CEG3155 Laboratory 3
 -------------------------------------------------------------------------------
 -- File          : MUX4.vhd
--- Student        : Moghesh Kamalaraj and Akash Karunaharan
+-- Student       : Moghesh Kamalaraj and Akash Karunaharan
 -- Created       : 2025/10/29
 -- Last modified : 2025/11/09
 -------------------------------------------------------------------------------
